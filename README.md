@@ -1,1 +1,1 @@
-# Algoritmo para verificar ipos de árvores broom
+# Algoritmo para verificar tipos das árvores broom T_{n,k} dado k
